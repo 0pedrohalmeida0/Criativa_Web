@@ -645,8 +645,8 @@ section {
 /* ================== FOOTER ================== */
 
 .footer {
-    background-color: var(--cor-texto);
-    color: white;
+    background-color: #0f172a;
+    color: #f8fafc;
     padding: var(--espacamento-3xl) var(--espacamento-md) var(--espacamento-lg);
 }
 
@@ -662,11 +662,11 @@ section {
 .footer-section h4 {
     font-size: 1.1rem;
     margin-bottom: var(--espacamento-md);
-    color: white;
+    color: #f8fafc;
 }
 
 .footer-section p {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(248, 250, 252, 0.8);
     font-size: 0.95rem;
     line-height: 1.6;
 }
@@ -679,20 +679,20 @@ section {
 }
 
 .footer-section a {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(248, 250, 252, 0.8);
     text-decoration: none;
     transition: var(--transicao-padrao);
 }
 
 .footer-section a:hover {
-    color: white;
+    color: #ffffff;
 }
 
 .footer-bottom {
     text-align: center;
     padding-top: var(--espacamento-2xl);
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    color: rgba(255, 255, 255, 0.6);
+    border-top: 1px solid rgba(248, 250, 252, 0.15);
+    color: rgba(248, 250, 252, 0.7);
     font-size: 0.9rem;
 }
 
